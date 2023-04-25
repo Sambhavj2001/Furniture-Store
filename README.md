@@ -12,5 +12,5 @@ To run our website following steps have to we considered:
 IT
 Team Members:- Sambhav Jain (0801IT201076).
 
-Mentor:- Profesor Upendra Singh Sir.
+Mentor:- Profesor Upendra Singh Sir. and 
          Dr. Lalit Purohit Sir
